@@ -1,0 +1,4 @@
+Product title: Computer
+Product price: 100000
+Product title: Notebook
+Product price: 50000
